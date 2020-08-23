@@ -235,7 +235,6 @@
 "CoC7.WeaponSkill": "Skill",
 "CoC7.WeaponSkillAlt": "Alt-skill",
 
-
 "CoC7.ManualCreditValues": "Manual Credit Values",
 "CoC7.MonetarySymbol": "Symbol :",
 "CoC7.MonetaryFactor": "Factor :",
@@ -256,7 +255,6 @@
 "CoC7.BackgroundSectionMoveDown": "Move Down",
 
 "CoC7.creatureFightingSkill": "Fighting",
-
 
 "SETTINGS.DefaultDifficulty": "Default check difficulty",
 "SETTINGS.DefaultDifficultyHint": "You can choose the default difficulty for checks. Unknown will roll checks without the player knowing the check difficulty.",

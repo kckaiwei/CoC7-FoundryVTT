@@ -90,13 +90,17 @@
 "CoC7.HardDifficulty": "majeur",
 "CoC7.ExtremeDifficulty": "extrême",
 "CoC7.CriticalDifficulty": "critique",
+"CoC7.UnknownDifficulty": "inconnue",
 "CoC7.RollDifficulty": "Difficulté du jet",
+"CoC7.RollDifficulty.Unknown": "Aveugle",
 "CoC7.RollDifficultyRegular": "Ordinaire",
 "CoC7.RollDifficultyHard": "Majeur",
 "CoC7.RollDifficultyExtreme": "Extrême",
 "CoC7.RollDifficultyCritical": "Critique",
 "CoC7.RollResult.LuckSpendText": "{luckAmount} point(s) de Chance dépensé(s), réussite {successLevel}",
 "CoC7.RollDice": "Lancer !",
+"CoC7.SuccesLevelHint": "{value} degré(s) de réussite",
+"CoC7.FailureLevelHint": "Échec de {value} degré(s)",
 
 "CoC7.CheckResult": "test de {name} ({value}%) - difficulté {difficulty}",
 "CoC7.ItemCheckResult": "{item} - test de {skill} check ({value}%) - difficulté {difficulty}",
@@ -190,9 +194,9 @@
 "CoC7.WeaponBlst": "À Souffle",
 "CoC7.WeaponStun": "Étourdissante",
 "CoC7.Weapon.Property.Melee": "Mêlée",
-"CoC7.Weapon.Property.Thrown": "Jeter",
+"CoC7.Weapon.Property.Thrown": "Lancer",
 "CoC7.Weapon.Property.Burn": "Brûlante",
-"CoC7.Weapon.Property.Shotgun": "Shotgun",
+"CoC7.Weapon.Property.Shotgun": "Fusil de chasse",
 
 "CoC7.ErrorItem": "Impossible de trouver l'item",
 "CoC7.ErrorActor": "Impossible de trouver l'acteur",
@@ -250,5 +254,14 @@
 "CoC7.BackgroundSectionMoveUp": "Monter",
 "CoC7.BackgroundSectionMoveDown": "Descendre",
 
-"CoC7.creatureFightingSkill": "Combat rapproché"
+"CoC7.creatureFightingSkill": "Combat rapproché",
+
+"SETTINGS.DefaultDifficulty": "Affichage de la difficulté par défaut des tests pour les joueurs",
+"SETTINGS.DefaultDifficultyHint": "Vous pouvez choisir la sélection par défaut de la difficulté des tests. 'Difficulté connue' sélectionnera par défaut la difficulté Ordinaire pour les tests des joueurs. Selectionnez 'Difficulté inconnue' si vous n'informez pas vos joueurs de la difficulté des tests qu'ils réalisent.",
+"SETTINGS.CheckDifficultyRegular": "Difficulté connue",
+"SETTINGS.CheckDifficultyUnknown": "Difficulté inconnue",
+"SETTINGS.UseToken":  "Utiliser l'image du token",
+"SETTINGS.UseTokenHint": "Utiliser l'image du token à la place du portrait dans le chat.",
+"SETTINGS.DisplayActorOnCard":  "Afficher l'Acteur dans le chat.",
+"SETTINGS.DisplayActorOnCardHint": "Afficher l'image/token de l'Acteur dans les cartes de jets de combat du chat."
 }
